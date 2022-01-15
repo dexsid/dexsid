@@ -6,7 +6,7 @@ I am Aslan from Kazakhstan and at the moment I am learning Java. I really like t
 
 Skills: JAVA / C# / Git / HTML / CSS
 
-- 🔭 I’m currently working on on my life 
+- 🔭 I’m currently working on my life 
 - ⚡ Fun fact: ⚡ Fun fact: I like to bodybuilding and learn new things 
 
 
