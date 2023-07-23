@@ -5,15 +5,6 @@ I am a computer science student who is passionate about new technologies. <br/>
  I work well as a team. I'm definitely not a very good speaker, but I'm a great listener 🤟.
 <img align="right" width="50%" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="guy" border="0">
 
-- 🔭 I’m currently working on **my life and my brain.**
-- 🌱 I’m currently learning **Java, SQL, Spring**
-- 👨‍💻 All of my projects are available at [https://github.com/dexsid](https://github.com/dexsid)
-- 📝 I regularly write articles on [how to do something without much effort](how to do something without much effort)
-- 💬 Ask me about **Java or Frontend Development as well, I will try help you as much as I can !**
-- 📫 How to reach me **dex.dxd.sid@gmail.com**
-- ⚡ Fun fact **I love to look at the night sky**
- <br/>
-
 <details>
   <summary>Connect with me: 🛠:</summary>
 <p align="left">
