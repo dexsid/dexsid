@@ -3,7 +3,6 @@ I am a computer science student who is passionate about new technologies. <br/>
  You can probably tinker a bit with my code, but I'm trying to make the code more understandable 😄. <br/>
  I usually work on my crazy ideas 😎. I am always glad to meet new people, <br/>
  I work well as a team. I'm definitely not a very good speaker, but I'm a great listener 🤟.
-<img align="right" width="50%" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="guy" border="0">
 
 <details>
   <summary>Connect with me: 🛠:</summary>
